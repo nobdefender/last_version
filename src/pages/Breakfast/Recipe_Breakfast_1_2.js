@@ -78,7 +78,7 @@ function Recipe_Breakfast_1_2(props) {
 
                 </div>
 
-                <DelayLink delay={2000} to="../../" replace={false}><div className="Button" onClick={() => {setIsShow(true); setTimeout(() => {setIsShow(false);},1500)}}> Продолжить </div></DelayLink>
+                <DelayLink delay={2021} to="../../" replace={false}><div className="Button" onClick={() => {setIsShow(true); setTimeout(() => {setIsShow(false);},1500)}}> Продолжить </div></DelayLink>
 
 
             </div>
